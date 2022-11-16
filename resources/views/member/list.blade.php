@@ -10,7 +10,7 @@
                     
                     <div class="card shadow-lg">
                         <div class="card-body">
-                            <h3 class="mb-4">Daftar Member</h3>
+                            <h3 class="mb-4" style="font-family: 'Hacked'; font-size: 30px">Daftar Member</h3>
                             <table class="table">
                                 <thead>
                                     <tr>
