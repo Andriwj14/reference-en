@@ -1,0 +1,75 @@
+body {
+	margin: 0;
+}
+
+b.hacker {
+    font-family: "Hacked", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+	font-size: 50px;
+}
+
+h4.register {
+	font-family: "Hacked", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+	font-size: 30px;
+}
+
+h4.login {
+	font-family: "Hacked", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+	font-size: 30px;
+}
+
+p.Member {
+	font-family: "Hacked", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+	font-size: 30px;
+}
+
+a.navbar-brand {
+    font-family: "Hacked", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+	font-size: 25px;
+	color: white !important;
+}
+
+nav .navbar-nav li a{
+	color: white !important;
+}
+
+.btn {
+	color: white;
+	background-color: #624F82;
+}
+
+.btn:hover {
+	color: white;
+	background-color: #9F73AB;
+}
+
+.member {
+	color: white;
+}
+
+.page-content {
+	width: 100%;
+	margin:  0 auto;
+	background: #624F82;
+	display: flex;
+	display: -webkit-flex;
+	justify-content: center;
+	-o-justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+	align-items: center;
+	-o-align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+}
