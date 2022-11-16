@@ -177,7 +177,7 @@
     <!-- Copyright -->
     <div class="text-center p-4 text-dark shadow" style="background-color: #A3C7D6;">
       © 2022 Copyright:
-      <a class="text-reset fw-bold" href="{{ url('/') }}">Heker Indonesia</a>
+      <a class="text-reset fw-bold" href="{{ url('/') }}">Heker Indonesia_</a>
     </div>
     <!-- Copyright -->
   </footer>

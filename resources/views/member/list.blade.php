@@ -17,7 +17,7 @@
                                         <th scope="col">ID</th>
                                         <th scope="col">Nama</th>
                                         <th scope="col">Email</th>
-                                        <th scope="col">Jenis User </th>
+                                        <th scope="col">Jenis User</th>
                                     </tr>
                                 </thead>
                                 <tbody>
