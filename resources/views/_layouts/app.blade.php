@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Heker Indonesia</title>
+    <title>Madrid Indonesia</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     
@@ -24,9 +24,9 @@
 <body>
     {{-- navbar --}}
     <section>
-        <nav class="navbar navbar-expand-lg shadow" style="background-color: #3F3B6C;">
+        <nav class="navbar navbar-expand-lg shadow" style="background-color: #EEF1FF;">
             <div class="container">
-                <a class="navbar-brand" href="{{ url("/") }}">Heker Indonesia_</a>
+                <a class="navbar-brand" href="{{ url("/") }}">Fans Real Madrid Indonesia</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -70,7 +70,7 @@
 </body>
 
 <!-- Footer -->
-<footer class="text-center text-lg-start text-white shadow" style="background-color: #9F73AB">
+<footer class="text-center text-lg-start text-white shadow" style="background-color: #D2DAFF">
   
       <!-- Right -->
       <div>
@@ -109,7 +109,7 @@
               <i class="fas fa-gem me-3 text-secondary"></i>Tentang Kami
             </h6>
             <p>
-              Sebuah komunitas heker paling disegani di seluruh dunia dan alam semesta raya.
+              Sebuah komunitas Fans Real Madrid yang paling disegani di seluruh dunia dan seluruh jagat raya dan juga sampai akhirat
             </p>
           </div>
           <!-- Grid column -->
@@ -174,10 +174,10 @@
     </section>
     <!-- Section: Links  -->
   
-    <!-- Copyright -->
-    <div class="text-center p-4 text-dark shadow" style="background-color: #A3C7D6;">
+    <!-- Copyright --> 
+    <div class="text-center p-4 text-dark shadow" style="background-color: #AAC4FF ;">
       © 2022 Copyright:
-      <a class="text-reset fw-bold" href="{{ url('/') }}">Heker Indonesia_</a>
+      <a class="text-reset fw-bold" href="{{ url('/') }}">Madrid Indonesia</a>
     </div>
     <!-- Copyright -->
   </footer>

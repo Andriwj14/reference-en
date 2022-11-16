@@ -82,12 +82,12 @@
                                         name="reenter_password">
                                 </div>
                                 <div class="d-grid gap-2 mt-4">
-                                    <button type="submit" class="btn btn-dark btn-lg" type="button">Daftar</button>
+                                    <button type="submit" class="btn btn-info btn-lg" type="button">Daftar</button>
                                 </div>
 
                                 <div class="d-grid gap-2 mt-4 mb-1">
                                     <p class="mb-0">Sudah punya akun?</p>
-                                    <a href="{{ url('user/login') }}" class="btn btn-outline-dark">Login</a>
+                                    <a href="{{ url('user/login') }}" class="btn btn-outline-info">Login</a>
                                 </div>
                             </form>
                         </div>

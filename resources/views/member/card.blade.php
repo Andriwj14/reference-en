@@ -5,10 +5,10 @@
         <div class="container" style="border-radius: 20px;">
             <div class="row my-5">
                 <div class="col-md-6 mt-md-0 mt-4">
-                    <p class="member">Selamat! Kamu telah menjadi member Heker Indonesia <br>Berikut member card-mu :</p>
+                    <p class="member">Selamat! Kamu telah menjadi bagian dari Fans Real Madrid Indonesia <br>Berikut member card-mu :</p>
                     <div class="card shadow-lg">
                         <div class="card-header d-flex justify-content-start">
-                            <p class="mb-0 ms-3 d-flex align-item-center" style="letter-spacing: 1px; font-family: 'Hacked'; font-size: 25px">
+                            <p class="mb-0 ms-3 d-flex align-item-center" style="letter-spacing: 1px; font-family: 'Bold'; font-size: 20px">
                                 MEMBER CARD
                             </p>
                         </div>
